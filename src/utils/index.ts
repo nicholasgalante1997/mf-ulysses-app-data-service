@@ -1,0 +1,1 @@
+export { exposeDirectory } from './exposeDirectory';
