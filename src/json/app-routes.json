@@ -1,0 +1,43 @@
+{
+    "home": {
+        "internalAppPath": "/",
+        "displayName": "ulysses home",
+        "hasChildPaths": false,
+        "isChildPath": false,
+        "initialState": {},
+        "childPaths": [],
+        "isFederatedComponent": true,
+        "federation-metadata": {
+            "dev_remoteEntryUrl": "http://localhost:4003/remoteEntry.js",
+            "federationKey": "home",
+            "framework": "react",
+            "targetModules": [
+                { "module": "./HomePage" }
+            ]
+        }
+    },
+    "white-pages": {
+        "internalAppPath": "/literature",
+        "displayName": "ulysses white pages",
+        "hasChildPaths": true,
+        "isChildPath": false,
+        "initialState": {},
+        "child-paths": [{
+            "internalAppPath": "/:article",
+            "displayName": "{{ query.article }}",
+            "isChildPath": true,
+            "hasChildPath": false,
+            "initialState": {}
+        }]
+    },
+    "all-claims": {
+        "internalAppPath": "/all-claims",
+        "displayName": "ulysses claims",
+        "initialState": {}
+    },
+    "categories": {
+        "internalAppPath": "/categories",
+        "displayName": "ulysses white pages",
+        "initialState": {}
+    }
+}

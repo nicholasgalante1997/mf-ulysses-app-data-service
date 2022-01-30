@@ -1,7 +1,4 @@
-const HtmlWebPackPlugin = require("html-webpack-plugin");
 const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPlugin");
-
-const exposeDirectory = require("./utils").exposeDirectory;
 
 const deps = require("./package.json").dependencies;
 module.exports = {
@@ -14,7 +11,7 @@ module.exports = {
   },
 
   devServer: {
-    port: 3002,
+    port: 4002,
     historyApiFallback: true,
   },
 
@@ -38,6 +35,7 @@ module.exports = {
           loader: "babel-loader",
         },
       },
+      { test: /\.json$/, type: 'json' }
     ],
   },
 
@@ -47,14 +45,11 @@ module.exports = {
       filename: "remoteEntry.js",
       remotes: {},
       exposes: {
-        './appData': './src/index'
+        "./appData": "./src/App",
       },
       shared: {
         ...deps,
       },
-    }),
-    new HtmlWebPackPlugin({
-      template: "./src/index.html",
-    }),
+    })
   ],
 };
