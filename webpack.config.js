@@ -1,6 +1,7 @@
 const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPlugin");
 
 const deps = require("./package.json").dependencies;
+
 module.exports = {
   output: {
     publicPath: "http://localhost:4002/",
@@ -35,7 +36,11 @@ module.exports = {
           loader: "babel-loader",
         },
       },
-      { test: /\.json$/, type: 'json' }
+      { test: /\.json$/, type: 'json' },
+      {
+        test: /\.md$/,
+        use: 'raw-loader'
+      },
     ],
   },
 
@@ -46,6 +51,8 @@ module.exports = {
       remotes: {},
       exposes: {
         "./appData": "./src/App",
+        "./OriginMD": "./src/markdown/Origin.md",
+        './OriginObject': "./src/articles/origin"
       },
       shared: {
         ...deps,
