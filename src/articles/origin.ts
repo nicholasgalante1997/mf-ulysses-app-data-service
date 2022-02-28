@@ -18,7 +18,7 @@ export default {
             ArticleCategories.origin, 
             ArticleCategories.comedy
         ],
-        shortDesc: "A discovery is made in a remote scientific excursion to Antarctica that rattles the fabric of the human's perception of their own existence. Heavy stuff.",
+        shortDesc: "A discovery is made in a remote scientific excursion to Antarctica that wrings out the very fabric of the humans' perception of their own existence. Heavy stuff.",
         imageModule: "./OriginImage"
     },
     markdown: origin
