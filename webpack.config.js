@@ -41,6 +41,14 @@ module.exports = {
         test: /\.md$/,
         use: 'raw-loader'
       },
+      {
+        test: /\.(png|jpe?g|gif)$/i,
+        use: [
+          {
+            loader: 'file-loader',
+          },
+        ],
+      },
     ],
   },
 
@@ -51,8 +59,8 @@ module.exports = {
       remotes: {},
       exposes: {
         "./appData": "./src/App",
-        "./OriginMD": "./src/markdown/Origin.md",
-        './OriginObject': "./src/articles/origin"
+        './OriginObject': "./src/articles/origin",
+        "./OriginImage": "./src/assets/origin_couch_gag.jpeg"
       },
       shared: {
         ...deps,
