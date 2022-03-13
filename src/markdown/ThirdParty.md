@@ -1,0 +1,11 @@
+# Section One: Go Fuck Yourself Anderson Cooper.
+
+"Senator, senator you need to let me get a word in because this is a fucking sham!"  
+From the moderator's table, twenty feet below and obscured largely by glaring lights set to make the candidate's appear human on screen, the moderator quickly piped in, "You're being warned not to use that language, may I remind you this is a live, televised debate, and there are individuals of all ages viewing."  
+"Well, they should mute me rather quickly, because you can go fuck yourself, Anderson Cooper. You've been stifling-"
+"I'm not Anderson Cooper. Peter! Cut the feed! We won't allow-"
+"YOU'VE BEEN STIFLING AMERICAN PROGRESS FOR DECADES, AND IF YOU FUCKING CUT THAT FEED, YOU'LL PROVE IT, AND SO WILL I!"  
+The moderator stared intently at newly elected senator. If it was up to the moderator and there were no eyes to watch, he'd walk up to the podium and smash the newly elected senator's forehead against the podium until his jaw broke away in secession from his face, then in biblical Cain-like fashion, dismember him into unpatriotic chunks with his newly sovereign jawbone, and douse those chunks with American-fracked gasoline, and cleanse this man from the earth.  
+Maybe the moderator was so distraught and unhinged from the remark because of the truth it carried with it. And with truth, comes reckoning. Eleven days ago, transaction records were decrypted from the Manna mainnet blockchain. All the fucking trannsaction records. Including his transaction records, well no shit. Data scientists said it could never happen. SHA-256 was predicted to take about a trillion years to crack via modern approaches, and that would only be feasible with a second world nation's worth of computing power. So what the fuck happened. Nobody knew. In fact, nobody
+There was a pause of a few seconds in which the air grew still, and the women and men in the seats of the auditorium held in pregnant anticipation of what they never knew they had long awaited, but always subtly yearned to be a part of; The new collapse of the American sociopolitical abstraction.
+In his head, from behind the podium and 

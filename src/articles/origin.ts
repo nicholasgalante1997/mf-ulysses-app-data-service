@@ -1,13 +1,6 @@
 import origin from '../markdown/Origin.md';
+import { ArticleCategories } from './article-types';
 import "./types.d";
-
-enum ArticleCategories {
-    origin = 'origin',
-    genesis = 'genesis',
-    absurd = 'absurd',
-    comedy = 'comedy',
-    nihilist = 'nihilo'
-}
 
 export default {
     meta: {

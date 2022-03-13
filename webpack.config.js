@@ -60,7 +60,9 @@ module.exports = {
       exposes: {
         "./appData": "./src/App",
         './OriginObject': "./src/articles/origin",
-        "./OriginImage": "./src/assets/origin_couch_gag.jpeg"
+        "./OriginImage": "./src/assets/origin_couch_gag.jpeg",
+        "./MountainObject": "./src/articles/mountain",
+        "./MountainImage": "./src/assets/couch-gag-stairs.jpeg"
       },
       shared: {
         ...deps,

@@ -1,11 +1,7 @@
 # Section One: Somewhere We've Never and Always Been
 
-It was the first approved scientific expedition to Antarctica since 1941, and given the 
-results it spewed forth into the Earth, it would probably be the last. There were 6 
-scientists that were on that expedition, and with their steadfastness in experience, it was
-exceedingly difficult to argue that madness had overcome the team, and that their findings
-were erred in any conceivable way. 
+It was the first approved scientific expedition to Antarctica since 1947, and given the results it spewed forth into the Earth, it would probably be the last. There were 5  scientists that witnessed the relic firsthand, and with their steadfastness in experience, it was exceedingly difficult to argue that madness had overcome the team, and that their findings were erred in any conceivable way.
 
-Therein lied the nature of the age of information. Everything was documented, live-streamed, uploaded, recorded, and embedded into the dusty servers in corporate basements that were readily and objectively recording the actions of the human race, for whatever the fuck was coming next.
+There were 5 individuals that actually scaled the TODO mountain range, but 11 individuals in total were listed on the expedition, which in scientific circles was known as *Expedition Aquaman* before uncovering what it had uncovered, and posthumously referred to as *Expedition Pandora's Box*, but in this particular case the lid to the box was not so much lifted, as ripped from the fucking hinges, incinerated, and the box along with it. Interestingly enough, the 6 individuals who were listening in via long range radio waves from the American Research Base 11 miles away to their 5 fellow scientisists on the range would later brag that they were there for the end of the world via walkie talkie. As close as they could be without ever having been there at all. But what does that mean?
 
-
+Expedition Aquaman was honestly stupid in hindsight. It was the product of the first extensible period of human peace and prosperity since 
